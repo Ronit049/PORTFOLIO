@@ -19,5 +19,5 @@ This is my personal portfolio website built using HTML and CSS. It showcases my 
 - CSS3
 
 ## 📬 Contact
-- Email: yourname@example.com
-- LinkedIn: [Your LinkedIn](#)
+- Email: ronitraj0409@gmail.com
+- LinkedIn: www.linkedin.com/in/ronit-raj-114181315
