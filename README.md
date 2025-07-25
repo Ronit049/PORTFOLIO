@@ -10,3 +10,14 @@ This is my personal portfolio website built using HTML and CSS. It showcases my 
 - Downloadable resume
 
 ## 📁 Folder Structure
+
+## 🌐 Live Demo
+[View Portfolio](https://Ronit049.github.io/personal-portfolio)
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+
+## 📬 Contact
+- Email: yourname@example.com
+- LinkedIn: [Your LinkedIn](#)
