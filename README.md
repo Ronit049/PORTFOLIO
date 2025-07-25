@@ -12,7 +12,7 @@ This is my personal portfolio website built using HTML and CSS. It showcases my 
 ## 📁 Folder Structure
 
 ## 🌐 Live Demo
-[View Portfolio](https://Ronit049.github.io/personal-portfolio)
+[View Portfolio]( https://ronit049.github.io/PORTFOLIO/)
 
 ## 🛠️ Tech Stack
 - HTML5
